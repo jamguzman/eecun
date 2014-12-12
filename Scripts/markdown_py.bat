@@ -1,0 +1,1 @@
+@"C:\Users\Jamer\dev\eecun\Scripts\python.exe" "C:\Users\Jamer\dev\eecun\Scripts\markdown_py" %*
